@@ -18,7 +18,7 @@ To create a application that will scrape Mars data from
 
 - Scrape Mars hemisphere images from [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
-The data is stored in Mongodb and then will be displayed on a dashboard
+The data is stored in Mongodb and then will be displayed on a dashboard.
 
 ## Technologies Used
 
